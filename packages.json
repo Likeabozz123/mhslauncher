@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "MHS Server SMP",
+      "name" : "MHSServerModpack",
+      "version" : "0",
+      "location" : "mhsservermodpack.json",
+      "priority" : 0
+    }
+  ]
+}
