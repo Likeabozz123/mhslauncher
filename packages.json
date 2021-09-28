@@ -4,7 +4,7 @@
     {
       "title" : "MHS Server SMP",
       "name" : "MHSServerModpack",
-      "version" : "0",
+      "version" : "0.1",
       "location" : "mhsservermodpack.json",
       "priority" : 0
     }
