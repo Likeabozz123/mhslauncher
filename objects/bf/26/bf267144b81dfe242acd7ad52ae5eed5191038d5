@@ -1,0 +1,72 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = minecraft_cave_animation_fancymenu_21938kf312
+  action = animatebackground
+}
+
+customization {
+  identifier = %id=352346%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  basecolor = #ffff00
+  shadow = true
+  delayappearanceseconds = 3.5
+  rotation = -20.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 402
+  actionid = b371f113-5f49-4375-9100-c02ea0ef7a6f1632069175340
+  action = addsplash
+  y = 77
+  delayappearance = true
+  text = Welcome %playername%!
+  delayappearanceeverytime = false
+}
+
+customization {
+  identifier = %id=400346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 11
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -13
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = Quit Game
+}
+

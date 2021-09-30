@@ -1,0 +1,8 @@
+type = customizablemenus
+
+com.legacy.blue_skies.client.gui.screen.ArcsScreen {
+}
+
+net.minecraft.client.gui.screen.MainMenuScreen {
+}
+
